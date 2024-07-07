@@ -1,0 +1,17 @@
+.gallery_container {
+  background-color: #1d9dd5;
+  color: #fff;
+  padding-bottom: 3rem;
+}
+
+.gallery_fundacja {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.gallery_fundacja img {
+  height: 15rem;
+  border: 2px solid white;
+}
